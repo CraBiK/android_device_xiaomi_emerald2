@@ -124,3 +124,4 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # TWRP Configuration
 TW_THEME := portrait_hdpi
+TW_MAX_BRIGHTNESS := 255
